@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\genericuc-1\genericuc-1\bin\Debug\net6.0\genericuc-1.exe
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\genericuc-1\genericuc-1\bin\Debug\net6.0\genericuc-1.deps.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\genericuc-1\genericuc-1\bin\Debug\net6.0\genericuc-1.runtimeconfig.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\genericuc-1\genericuc-1\bin\Debug\net6.0\genericuc-1.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\genericuc-1\genericuc-1\bin\Debug\net6.0\genericuc-1.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\genericuc-1\genericuc-1\obj\Debug\net6.0\genericuc-1.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\genericuc-1\genericuc-1\obj\Debug\net6.0\genericuc-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\genericuc-1\genericuc-1\obj\Debug\net6.0\genericuc-1.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\genericuc-1\genericuc-1\obj\Debug\net6.0\genericuc-1.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\genericuc-1\genericuc-1\obj\Debug\net6.0\genericuc-1.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\genericuc-1\genericuc-1\obj\Debug\net6.0\genericuc-1.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\genericuc-1\genericuc-1\obj\Debug\net6.0\refint\genericuc-1.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\genericuc-1\genericuc-1\obj\Debug\net6.0\genericuc-1.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\genericuc-1\genericuc-1\obj\Debug\net6.0\genericuc-1.genruntimeconfig.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\genericuc-1\genericuc-1\obj\Debug\net6.0\ref\genericuc-1.dll
